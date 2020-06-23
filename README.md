@@ -10,3 +10,4 @@
 * Removed StarterContent and tweaked lighting
 * Beginning to build out the "Grabber component"
 * Created Grab function and tested that it works
+* Refactored to make code more readable
