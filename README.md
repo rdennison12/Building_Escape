@@ -9,3 +9,4 @@
 * Migrated assets from older version to this project
 * Removed StarterContent and tweaked lighting
 * Beginning to build out the "Grabber component"
+* Created Grab function and tested that it works
